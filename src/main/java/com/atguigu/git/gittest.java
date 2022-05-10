@@ -9,7 +9,8 @@ public class gittest {
         System.out.println("master test");
         System.out.println("hot-fix test");
         System.out.println("push test");
-        System.out.println("Pull test1")
+        System.out.println("Pull test1");
+        System.out.println("github更新");
         
     }
 }
